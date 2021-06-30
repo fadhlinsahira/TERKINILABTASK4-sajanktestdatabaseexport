@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TERKINILABTASK4", "TERKINILABTASK4\TERKINILABTASK4.vbproj", "{42242B8E-2461-48F1-82B5-C2841FEC4CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42242B8E-2461-48F1-82B5-C2841FEC4CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42242B8E-2461-48F1-82B5-C2841FEC4CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42242B8E-2461-48F1-82B5-C2841FEC4CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42242B8E-2461-48F1-82B5-C2841FEC4CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FD6897B-2773-46A0-A7F9-787CF8EBA55D}
+	EndGlobalSection
+EndGlobal
